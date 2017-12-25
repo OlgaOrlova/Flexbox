@@ -1,0 +1,8 @@
+.flex-element {
+    color: yellow;
+    padding: 66px;
+    margin: 5px;
+    background: firebrick;
+    border-radius: 3px;
+    list-style-type: none;
+}
