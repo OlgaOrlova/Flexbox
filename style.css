@@ -7,6 +7,7 @@
     list-style-type: none;
 }
 .flex-element::before{
+    display: none;
     content: " ";
     right: 17px;
     position: relative;
